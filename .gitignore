@@ -6,3 +6,4 @@ private-assets/
 *.pem
 !updater/release-key.pem
 *signing-key*
+venv/
